@@ -10,7 +10,7 @@ int main(){
 	
 	for(i = 1; i<=10; i++){
 		table = num * i;
-		printf("\nMultiplication table of your number is: %d * %d = %d",num,i,table);
+		printf("\n%d * %d = %d",num,i,table);
 	}
 	
 	
