@@ -8,6 +8,7 @@ int main(){
 		
 		for(j=1;j<=5;j++){
 			printf("*");
+		//  printf("%d",j);
 		}
 
 		printf("\n");
@@ -20,3 +21,4 @@ int main(){
 // * * * * *
 // * * * * *
 // * * * * *
+
