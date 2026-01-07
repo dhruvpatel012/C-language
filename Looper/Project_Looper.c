@@ -52,6 +52,9 @@ int main(){
 				
      	sum = first_dig + last_dig;
 	    printf("sum of first and last digit is = %d",sum);
+
+	    
+	    return 0;
 }
 	
 	
