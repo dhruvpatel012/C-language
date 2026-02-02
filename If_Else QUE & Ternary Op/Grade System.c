@@ -34,7 +34,7 @@ int main(){
 	 }
 	
 	
-	if(score>=50){
+	if(score<=100 && score>=50){
 		printf("\nGrade = %c",grade);
 	}
 	

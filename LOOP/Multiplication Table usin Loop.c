@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdio.h>
 
 int main(){
 	
@@ -12,7 +11,6 @@ int main(){
 		table = num * i;
 		printf("\n%d * %d = %d",num,i,table);
 	}
-	
 	
 	
 	return 0;
